@@ -29,7 +29,7 @@
 | 🍱 Food Profit Dashboard | Visual insights from food delivery data | Python, Streamlit |
 | 🛋️ AR Interior Design | Augmented reality app for room styling | Unity, ARCore |
 | 🏋️ Gym Reservation Bot | Automates gym slot bookings | Python, Dialogflow |
-| 🎟️ Ticket Price Calculator | Calculates fares based on user inputs | HTML, CSS, JS |
+| 🎟️ Ticket Price Calculator | Calculates fares based on user inputs |  Java |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshita0908&show_icons=true&locale=en&layout=compact" alt="rakshita0908" /></p>
 
