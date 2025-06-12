@@ -11,7 +11,7 @@
 
 - 📫 How to reach me :**rakshithaitagi29@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1wQ7K51XBiRpHlS1yziAhW7ubOGb1VDtC/view?usp=drivesdk](https://drive.google.com/file/d/1wQ7K51XBiRpHlS1yziAhW7ubOGb1VDtC/view?usp=drivesdk)
+- 📄 [Resume](https://github.com/Rakshita0908/Resume/blob/main/RAKSHITA_ITAGI-RESUME.pdf) 
 
 - ⚡ Fun fact :**I turn caffeine into code ☕💻**
 
