@@ -31,6 +31,21 @@
 | 🏋️ Gym Reservation Bot | Automates gym slot bookings | Python, Dialogflow,selenium |
 | 🎟️ Ticket Price Calculator | Calculates fares based on user inputs |  Java |
 
+
+## 📁 My  Recent GitHub Repositories
+
+Here are some of the projects I’ve built and contributed to:
+
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| 🔹 Vehicle-detection-and-speed-Tracker :https://github.com/Rakshita0908/Vehicle-detection-and-speed-Tracker | Detects vehicles and estimates speed from video feed | Python |
+| 🔹 TicketPrice-Calculator : https://github.com/Rakshita0908/TicketPrice-Calculator | Simple app to calculate ticket prices | Java |
+| 🔹 GymReservationBot:  https://github.com/Rakshita0908/GymReservationBot) | Selenium bot to automate gym slot reservations | HTML, Python |
+| 🔹 [Leetcode](https://github.com/Rakshita0908/Leetcode) | My solved LeetCode problems | Python |
+| 🔹 [Dsa-Problems](https://github.com/Rakshita0908/Dsa-Problems) | Data structures and algorithms practice | C++ |
+| 🔹 [Rakshita0908](https://github.com/Rakshita0908/Rakshita0908) | My GitHub profile README repository | Markdown |
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshita0908&show_icons=true&locale=en&layout=compact" alt="rakshita0908" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshita0908&show_icons=true&locale=en" alt="rakshita0908" /></p>
